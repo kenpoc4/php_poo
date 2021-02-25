@@ -1,0 +1,8 @@
+FILES INCLUTION
+
+include => Allow us to include a file inside other, if it does exist it generates a warning.
+
+require => Allow us to include a file inside other too, but if it doesn't exist it generate a error.
+
+require_one =>   The same as "require", but just make the call once.
+
